@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: ME.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am Xiwei Zhao, a passionate researcher and developer in the field of robotics and computer science. My work primarily focuses on AI agent trainings, imitation learning and robotics. I enjoy exploring new technologies and applying them to solve real-world problems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I love reading, hiking, and attending classical concerts. I believe in the power of art and culture to inspire creativity and innovation.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/xiweizhao1182001/) or reach out via email at [xiweizhao118@outlook.com](mailto:xiweizhao118@outlook.com).

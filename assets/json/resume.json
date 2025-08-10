@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Xiwei Zhao",
+    "label": "master student",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "xiwei.zhao@aalto.fi",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://xiweizhao118.github.io/",
+    "summary": "A master student in theoretical physics, with a strong background in quantum mechanics and relativity.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
