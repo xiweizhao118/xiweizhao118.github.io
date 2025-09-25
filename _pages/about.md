@@ -32,4 +32,4 @@ When I'm not in the lab, I find inspiration in reading, hiking, and the rich com
 
 I am looking for my next challenge: a Ph.D. program or an industrial R&D role in Robotics or Applied AI for the Spring 2026 term.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/xiweizhao1182001/) or reach out via email at [xiweizhao118@outlook.com](mailto:xiweizhao118@outlook.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/xiweizhao1182001/) or reach out via email at [zhaoxiwei118@gmail.com](mailto:zhaoxiwei118@gmail.com).
