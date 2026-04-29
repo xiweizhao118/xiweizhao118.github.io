@@ -40,8 +40,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "news-our-paper-quot-video-to-bt-quot-has-been-submitted-to-icra-2026",
-          title: 'Our paper &amp;quot;Video-to-BT&amp;quot; has been submitted to ICRA 2026',
+            },},{id: "news-our-paper-quot-video-to-bt-quot-has-been-accepted-to-icra-2026",
+          title: 'Our paper &amp;quot;Video-to-BT&amp;quot; has been accepted to ICRA 2026',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1.html";
