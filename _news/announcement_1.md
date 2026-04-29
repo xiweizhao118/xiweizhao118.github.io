@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-09-16 10:00:00 +0000
+date: 2026-01-31 10:00:00 +0000
 title: Our paper "Video-to-BT" has been accepted to ICRA 2026
 inline: false
 related_posts: false
